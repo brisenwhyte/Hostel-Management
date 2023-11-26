@@ -1,2 +1,2 @@
 # Hostel-Management
-DBMS Porject
+DBMS Project
